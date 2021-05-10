@@ -25,7 +25,7 @@
     "@sentry/integrations": "^5.4.0",
     "axios": "~0.19.0",
     "bezier-easing": "^2.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mapbox-gl": "~1.1.0",
     "mapbox-gl-vue": "^1.9.0",
     "ms": "^2.1.1",
